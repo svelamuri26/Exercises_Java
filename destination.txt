@@ -1,0 +1,3 @@
+Hello and Welcome to Java Practice!
+Hello and Welcome ! 
+How are you doing today ? 
